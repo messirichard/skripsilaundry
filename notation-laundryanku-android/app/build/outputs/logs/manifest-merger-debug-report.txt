@@ -1,0 +1,433 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml:2:1-68:12
+INJECTED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml:2:1-68:12
+INJECTED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml:2:1-68:12
+INJECTED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml:2:1-68:12
+MERGED from [com.android.databinding:adapters:3.1.2] /home/edo/.gradle/caches/transforms-1/files-1.1/adapters-3.1.2.aar/9600555f6444a6dc11098e47a4b47481/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.databinding:library:3.1.2] /home/edo/.gradle/caches/transforms-1/files-1.1/library-3.1.2.aar/9a7a8d3dc0c50ef01ebdd1b554943523/AndroidManifest.xml:17:1-24:12
+MERGED from [gun0912.ted:tedbottompicker:1.1.0] /home/edo/.gradle/caches/transforms-1/files-1.1/tedbottompicker-1.1.0.aar/618f8395d8a854d09ea51ff275fdec2a/AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:design:27.1.1] /home/edo/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/a5709082e06fa85d0a6d0e69f92a72c4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/edo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/948b2cc0aaa8daf39978ab0764f9a4bc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/edo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/7b83205598acde7d838a067d2eec6bac/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/edo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/c38de0b2e8a22afb364325c674d1288d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-messaging:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.0.aar/f4cb176455e9d66db93d07f115d3957d/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-core:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-core-12.0.0.aar/df56d3be0aa5c654ac1fed3a9e5e28e0/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/49246c067962a013ab560d85e2d30878/AndroidManifest.xml:17:1-54:12
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.0.aar/05610c9bc0fcfe70ffd9517301a3cf29/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/d3c76a77b4f903f107383d4d5f6a418b/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-common:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.0.aar/333937b4c99e8703c67352dc14113272/AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-tasks:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.0.aar/66cadadab65d4c1102a43d0cbe642924/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/997b84a7de55cdba06f7c23a5e536be5/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] /home/edo/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/8568035348c3d2208b0f89d4156acf4d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/edo/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/f89320955a98450b39ce437404fc3156/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/edo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/340958693232f8b103a9dbb0ebd829e6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/edo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/c8dda91b655bb224b064ecfb08ceddb2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/edo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/2217d33c9d71b4bc1f6219e9aa2017fe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/edo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/6a0000942e232a0e6a77690a06d1c1be/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /home/edo/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/4920d28919929e148ea151ffcf65aa5c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/edo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/ca157eb3a0eb61b5b0336615572ea7fd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/edo/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/cde8bf145379b4cfee8e895d170a20dc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/edo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/265741a2d114fae8f531b24e455697ca/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/edo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/86f81252adce123000b857971c39d9e3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/edo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/236b3b11fc35ed9dae7a4b6f03a7becf/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/edo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ba926a2501ef29d9780394e0e9b52ede/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-12.0.0.aar/7440eb0c5792e001a0d7d2b02d849af3/AndroidManifest.xml:2:1-8:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/edo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/79519a949ea5558514f0896c6369a9e3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-iid-license:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-12.0.0.aar/dc49cb0cee6d4ac2990996407992a9e8/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.0.aar/948b8605c29ec33db5e0c677176b5f7d/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-common-license:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-common-license-12.0.0.aar/8a29fff6007f07d44d7b1694a4eeb09f/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-12.0.0.aar/6a4e65f79cc990f905234d9eef860714/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.0.aar/4239869d887a070561b10c5aa60c8954/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-12.0.0.aar/93c031ff3bb9e48ddb4fe2d0dd50b561/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml:2:1-68:12
+INJECTED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml:2:1-68:12
+INJECTED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml:2:1-68:12
+	package
+		ADDED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml
+		ADDED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml:2:1-68:12
+		INJECTED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml
+		ADDED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml:2:1-68:12
+		INJECTED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.google.firebase:firebase-analytics:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/49246c067962a013ab560d85e2d30878/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/49246c067962a013ab560d85e2d30878/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.0.aar/05610c9bc0fcfe70ffd9517301a3cf29/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.0.aar/05610c9bc0fcfe70ffd9517301a3cf29/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/d3c76a77b4f903f107383d4d5f6a418b/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/d3c76a77b4f903f107383d4d5f6a418b/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml:8:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml:9:5-71
+	android:name
+		ADDED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml:9:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml:10:5-72
+	android:name
+		ADDED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml:10:22-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml:11:5-81
+MERGED from [gun0912.ted:tedbottompicker:1.1.0] /home/edo/.gradle/caches/transforms-1/files-1.1/tedbottompicker-1.1.0.aar/618f8395d8a854d09ea51ff275fdec2a/AndroidManifest.xml:11:5-81
+MERGED from [gun0912.ted:tedbottompicker:1.1.0] /home/edo/.gradle/caches/transforms-1/files-1.1/tedbottompicker-1.1.0.aar/618f8395d8a854d09ea51ff275fdec2a/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml:12:22-77
+application
+ADDED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml:14:5-66:19
+MERGED from [gun0912.ted:tedbottompicker:1.1.0] /home/edo/.gradle/caches/transforms-1/files-1.1/tedbottompicker-1.1.0.aar/618f8395d8a854d09ea51ff275fdec2a/AndroidManifest.xml:13:5-23:19
+MERGED from [gun0912.ted:tedbottompicker:1.1.0] /home/edo/.gradle/caches/transforms-1/files-1.1/tedbottompicker-1.1.0.aar/618f8395d8a854d09ea51ff275fdec2a/AndroidManifest.xml:13:5-23:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/edo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/7b83205598acde7d838a067d2eec6bac/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/edo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/7b83205598acde7d838a067d2eec6bac/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-messaging:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.0.aar/f4cb176455e9d66db93d07f115d3957d/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.0.aar/f4cb176455e9d66db93d07f115d3957d/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-core:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-core-12.0.0.aar/df56d3be0aa5c654ac1fed3a9e5e28e0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-core-12.0.0.aar/df56d3be0aa5c654ac1fed3a9e5e28e0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/49246c067962a013ab560d85e2d30878/AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/49246c067962a013ab560d85e2d30878/AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.0.aar/05610c9bc0fcfe70ffd9517301a3cf29/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.0.aar/05610c9bc0fcfe70ffd9517301a3cf29/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-iid:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/d3c76a77b4f903f107383d4d5f6a418b/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-iid:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/d3c76a77b4f903f107383d4d5f6a418b/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-common:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.0.aar/333937b4c99e8703c67352dc14113272/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.0.aar/333937b4c99e8703c67352dc14113272/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.gms:play-services-tasks:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.0.aar/66cadadab65d4c1102a43d0cbe642924/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.0.aar/66cadadab65d4c1102a43d0cbe642924/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/997b84a7de55cdba06f7c23a5e536be5/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/997b84a7de55cdba06f7c23a5e536be5/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-12.0.0.aar/7440eb0c5792e001a0d7d2b02d849af3/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-12.0.0.aar/7440eb0c5792e001a0d7d2b02d849af3/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-iid-license:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-12.0.0.aar/dc49cb0cee6d4ac2990996407992a9e8/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-iid-license:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-12.0.0.aar/dc49cb0cee6d4ac2990996407992a9e8/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.0.aar/948b8605c29ec33db5e0c677176b5f7d/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.0.aar/948b8605c29ec33db5e0c677176b5f7d/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-common-license:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-common-license-12.0.0.aar/8a29fff6007f07d44d7b1694a4eeb09f/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-common-license:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-common-license-12.0.0.aar/8a29fff6007f07d44d7b1694a4eeb09f/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-12.0.0.aar/6a4e65f79cc990f905234d9eef860714/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-12.0.0.aar/6a4e65f79cc990f905234d9eef860714/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.0.aar/4239869d887a070561b10c5aa60c8954/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.0.aar/4239869d887a070561b10c5aa60c8954/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-12.0.0.aar/93c031ff3bb9e48ddb4fe2d0dd50b561/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-12.0.0.aar/93c031ff3bb9e48ddb4fe2d0dd50b561/AndroidManifest.xml:5:5-6:19
+	android:supportsRtl
+		ADDED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml:19:9-35
+	android:label
+		ADDED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml:17:9-41
+	android:roundIcon
+		ADDED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml:18:9-54
+	android:icon
+		ADDED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml:20:9-40
+activity#id.placeholderlabs.laundry.MainActivity
+ADDED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml:21:9-27:20
+	android:name
+		ADDED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml:21:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml:25:27-74
+service#id.placeholderlabs.laundry.MyFirebaseMessagingService
+ADDED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml:29:9-33:19
+	android:name
+		ADDED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml:29:18-60
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml:30:13-32:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml:31:17-78
+	android:name
+		ADDED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml:31:25-75
+service#id.placeholderlabs.laundry.FirebaseIDService
+ADDED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml:34:9-38:19
+	android:name
+		ADDED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml:34:18-51
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml:35:13-37:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml:36:17-80
+	android:name
+		ADDED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml:36:25-77
+meta-data#com.google.firebase.messaging.default_notification_icon
+ADDED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml:44:9-46:67
+	android:resource
+		ADDED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml:46:13-64
+	android:name
+		ADDED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml:45:13-83
+meta-data#com.google.firebase.messaging.default_notification_color
+ADDED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml:51:9-53:46
+	android:resource
+		ADDED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml:53:13-43
+	android:name
+		ADDED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml:52:13-84
+activity#id.placeholderlabs.laundry.LoginActivity
+ADDED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml:55:9-58:81
+	android:label
+		ADDED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml:57:13-57
+	android:theme
+		ADDED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml:58:13-69
+	android:name
+		ADDED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml:56:13-42
+activity#id.placeholderlabs.laundry.DashboardActivity
+ADDED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml:59:9-62:59
+	android:label
+		ADDED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml:61:13-61
+	android:theme
+		ADDED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml:62:13-56
+	android:name
+		ADDED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml:60:13-46
+activity#id.placeholderlabs.laundry.UploadBukti
+ADDED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml:63:9-65:20
+	android:name
+		ADDED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml:63:19-46
+uses-sdk
+INJECTED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml
+INJECTED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml
+MERGED from [com.android.databinding:adapters:3.1.2] /home/edo/.gradle/caches/transforms-1/files-1.1/adapters-3.1.2.aar/9600555f6444a6dc11098e47a4b47481/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:adapters:3.1.2] /home/edo/.gradle/caches/transforms-1/files-1.1/adapters-3.1.2.aar/9600555f6444a6dc11098e47a4b47481/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.1.2] /home/edo/.gradle/caches/transforms-1/files-1.1/library-3.1.2.aar/9a7a8d3dc0c50ef01ebdd1b554943523/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.1.2] /home/edo/.gradle/caches/transforms-1/files-1.1/library-3.1.2.aar/9a7a8d3dc0c50ef01ebdd1b554943523/AndroidManifest.xml:22:5-44
+MERGED from [gun0912.ted:tedbottompicker:1.1.0] /home/edo/.gradle/caches/transforms-1/files-1.1/tedbottompicker-1.1.0.aar/618f8395d8a854d09ea51ff275fdec2a/AndroidManifest.xml:7:5-9:41
+MERGED from [gun0912.ted:tedbottompicker:1.1.0] /home/edo/.gradle/caches/transforms-1/files-1.1/tedbottompicker-1.1.0.aar/618f8395d8a854d09ea51ff275fdec2a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.1.1] /home/edo/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/a5709082e06fa85d0a6d0e69f92a72c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /home/edo/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/a5709082e06fa85d0a6d0e69f92a72c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/edo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/948b2cc0aaa8daf39978ab0764f9a4bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/edo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/948b2cc0aaa8daf39978ab0764f9a4bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/edo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/7b83205598acde7d838a067d2eec6bac/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/edo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/7b83205598acde7d838a067d2eec6bac/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/edo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/c38de0b2e8a22afb364325c674d1288d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/edo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/c38de0b2e8a22afb364325c674d1288d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.0.aar/f4cb176455e9d66db93d07f115d3957d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.0.aar/f4cb176455e9d66db93d07f115d3957d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-core-12.0.0.aar/df56d3be0aa5c654ac1fed3a9e5e28e0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-core-12.0.0.aar/df56d3be0aa5c654ac1fed3a9e5e28e0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/49246c067962a013ab560d85e2d30878/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/49246c067962a013ab560d85e2d30878/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.0.aar/05610c9bc0fcfe70ffd9517301a3cf29/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.0.aar/05610c9bc0fcfe70ffd9517301a3cf29/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/d3c76a77b4f903f107383d4d5f6a418b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/d3c76a77b4f903f107383d4d5f6a418b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.0.aar/333937b4c99e8703c67352dc14113272/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.0.aar/333937b4c99e8703c67352dc14113272/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.0.aar/66cadadab65d4c1102a43d0cbe642924/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.0.aar/66cadadab65d4c1102a43d0cbe642924/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/997b84a7de55cdba06f7c23a5e536be5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/997b84a7de55cdba06f7c23a5e536be5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/edo/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/8568035348c3d2208b0f89d4156acf4d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/edo/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/8568035348c3d2208b0f89d4156acf4d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/edo/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/f89320955a98450b39ce437404fc3156/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/edo/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/f89320955a98450b39ce437404fc3156/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/edo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/340958693232f8b103a9dbb0ebd829e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/edo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/340958693232f8b103a9dbb0ebd829e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/edo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/c8dda91b655bb224b064ecfb08ceddb2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/edo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/c8dda91b655bb224b064ecfb08ceddb2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/edo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/2217d33c9d71b4bc1f6219e9aa2017fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/edo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/2217d33c9d71b4bc1f6219e9aa2017fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/edo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/6a0000942e232a0e6a77690a06d1c1be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/edo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/6a0000942e232a0e6a77690a06d1c1be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/edo/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/4920d28919929e148ea151ffcf65aa5c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/edo/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/4920d28919929e148ea151ffcf65aa5c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/edo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/ca157eb3a0eb61b5b0336615572ea7fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/edo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/ca157eb3a0eb61b5b0336615572ea7fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/edo/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/cde8bf145379b4cfee8e895d170a20dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/edo/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/cde8bf145379b4cfee8e895d170a20dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/edo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/265741a2d114fae8f531b24e455697ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/edo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/265741a2d114fae8f531b24e455697ca/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/edo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/86f81252adce123000b857971c39d9e3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/edo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/86f81252adce123000b857971c39d9e3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/edo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/236b3b11fc35ed9dae7a4b6f03a7becf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/edo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/236b3b11fc35ed9dae7a4b6f03a7becf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/edo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ba926a2501ef29d9780394e0e9b52ede/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/edo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ba926a2501ef29d9780394e0e9b52ede/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/edo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/79519a949ea5558514f0896c6369a9e3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/edo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/79519a949ea5558514f0896c6369a9e3/AndroidManifest.xml:20:5-44
+INJECTED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml
+INJECTED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml
+		ADDED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml
+		ADDED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml
+provider#android.support.v4.content.FileProvider
+ADDED from [gun0912.ted:tedbottompicker:1.1.0] /home/edo/.gradle/caches/transforms-1/files-1.1/tedbottompicker-1.1.0.aar/618f8395d8a854d09ea51ff275fdec2a/AndroidManifest.xml:14:9-22:20
+	android:grantUriPermissions
+		ADDED from [gun0912.ted:tedbottompicker:1.1.0] /home/edo/.gradle/caches/transforms-1/files-1.1/tedbottompicker-1.1.0.aar/618f8395d8a854d09ea51ff275fdec2a/AndroidManifest.xml:18:13-47
+	android:authorities
+		ADDED from [gun0912.ted:tedbottompicker:1.1.0] /home/edo/.gradle/caches/transforms-1/files-1.1/tedbottompicker-1.1.0.aar/618f8395d8a854d09ea51ff275fdec2a/AndroidManifest.xml:16:13-60
+	android:exported
+		ADDED from [gun0912.ted:tedbottompicker:1.1.0] /home/edo/.gradle/caches/transforms-1/files-1.1/tedbottompicker-1.1.0.aar/618f8395d8a854d09ea51ff275fdec2a/AndroidManifest.xml:17:13-37
+	android:name
+		ADDED from [gun0912.ted:tedbottompicker:1.1.0] /home/edo/.gradle/caches/transforms-1/files-1.1/tedbottompicker-1.1.0.aar/618f8395d8a854d09ea51ff275fdec2a/AndroidManifest.xml:15:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [gun0912.ted:tedbottompicker:1.1.0] /home/edo/.gradle/caches/transforms-1/files-1.1/tedbottompicker-1.1.0.aar/618f8395d8a854d09ea51ff275fdec2a/AndroidManifest.xml:19:13-21:58
+	android:resource
+		ADDED from [gun0912.ted:tedbottompicker:1.1.0] /home/edo/.gradle/caches/transforms-1/files-1.1/tedbottompicker-1.1.0.aar/618f8395d8a854d09ea51ff275fdec2a/AndroidManifest.xml:21:17-55
+	android:name
+		ADDED from [gun0912.ted:tedbottompicker:1.1.0] /home/edo/.gradle/caches/transforms-1/files-1.1/tedbottompicker-1.1.0.aar/618f8395d8a854d09ea51ff275fdec2a/AndroidManifest.xml:20:17-67
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.0.aar/f4cb176455e9d66db93d07f115d3957d/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.0.aar/f4cb176455e9d66db93d07f115d3957d/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.0.aar/f4cb176455e9d66db93d07f115d3957d/AndroidManifest.xml:29:13-82
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/49246c067962a013ab560d85e2d30878/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.0.aar/05610c9bc0fcfe70ffd9517301a3cf29/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.0.aar/05610c9bc0fcfe70ffd9517301a3cf29/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/d3c76a77b4f903f107383d4d5f6a418b/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/d3c76a77b4f903f107383d4d5f6a418b/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/49246c067962a013ab560d85e2d30878/AndroidManifest.xml:24:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/49246c067962a013ab560d85e2d30878/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.0.aar/05610c9bc0fcfe70ffd9517301a3cf29/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.0.aar/05610c9bc0fcfe70ffd9517301a3cf29/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/d3c76a77b4f903f107383d4d5f6a418b/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/d3c76a77b4f903f107383d4d5f6a418b/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/49246c067962a013ab560d85e2d30878/AndroidManifest.xml:25:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/49246c067962a013ab560d85e2d30878/AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.0.aar/05610c9bc0fcfe70ffd9517301a3cf29/AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.0.aar/05610c9bc0fcfe70ffd9517301a3cf29/AndroidManifest.xml:28:9-32:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/49246c067962a013ab560d85e2d30878/AndroidManifest.xml:30:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/49246c067962a013ab560d85e2d30878/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/49246c067962a013ab560d85e2d30878/AndroidManifest.xml:29:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/49246c067962a013ab560d85e2d30878/AndroidManifest.xml:33:9-41:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/49246c067962a013ab560d85e2d30878/AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/49246c067962a013ab560d85e2d30878/AndroidManifest.xml:36:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/49246c067962a013ab560d85e2d30878/AndroidManifest.xml:37:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/49246c067962a013ab560d85e2d30878/AndroidManifest.xml:34:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/49246c067962a013ab560d85e2d30878/AndroidManifest.xml:38:13-40:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/49246c067962a013ab560d85e2d30878/AndroidManifest.xml:39:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/49246c067962a013ab560d85e2d30878/AndroidManifest.xml:39:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/49246c067962a013ab560d85e2d30878/AndroidManifest.xml:43:9-46:40
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.0.aar/05610c9bc0fcfe70ffd9517301a3cf29/AndroidManifest.xml:34:9-37:40
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.0.aar/05610c9bc0fcfe70ffd9517301a3cf29/AndroidManifest.xml:34:9-37:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/49246c067962a013ab560d85e2d30878/AndroidManifest.xml:45:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/49246c067962a013ab560d85e2d30878/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/49246c067962a013ab560d85e2d30878/AndroidManifest.xml:44:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/49246c067962a013ab560d85e2d30878/AndroidManifest.xml:47:9-51:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/49246c067962a013ab560d85e2d30878/AndroidManifest.xml:49:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/49246c067962a013ab560d85e2d30878/AndroidManifest.xml:50:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/49246c067962a013ab560d85e2d30878/AndroidManifest.xml:51:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/49246c067962a013ab560d85e2d30878/AndroidManifest.xml:48:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/d3c76a77b4f903f107383d4d5f6a418b/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/d3c76a77b4f903f107383d4d5f6a418b/AndroidManifest.xml:26:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/d3c76a77b4f903f107383d4d5f6a418b/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/d3c76a77b4f903f107383d4d5f6a418b/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/d3c76a77b4f903f107383d4d5f6a418b/AndroidManifest.xml:29:9-63
+permission#id.placeholderlabs.laundry.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/d3c76a77b4f903f107383d4d5f6a418b/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/d3c76a77b4f903f107383d4d5f6a418b/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/d3c76a77b4f903f107383d4d5f6a418b/AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/d3c76a77b4f903f107383d4d5f6a418b/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/d3c76a77b4f903f107383d4d5f6a418b/AndroidManifest.xml:32:22-76
+uses-permission#id.placeholderlabs.laundry.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/d3c76a77b4f903f107383d4d5f6a418b/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/d3c76a77b4f903f107383d4d5f6a418b/AndroidManifest.xml:32:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/d3c76a77b4f903f107383d4d5f6a418b/AndroidManifest.xml:35:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/d3c76a77b4f903f107383d4d5f6a418b/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/d3c76a77b4f903f107383d4d5f6a418b/AndroidManifest.xml:38:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/d3c76a77b4f903f107383d4d5f6a418b/AndroidManifest.xml:36:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/d3c76a77b4f903f107383d4d5f6a418b/AndroidManifest.xml:39:13-43:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:id.placeholderlabs.laundry
+ADDED from [com.google.firebase:firebase-iid:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/d3c76a77b4f903f107383d4d5f6a418b/AndroidManifest.xml:39:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/d3c76a77b4f903f107383d4d5f6a418b/AndroidManifest.xml:40:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/d3c76a77b4f903f107383d4d5f6a418b/AndroidManifest.xml:40:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/d3c76a77b4f903f107383d4d5f6a418b/AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/d3c76a77b4f903f107383d4d5f6a418b/AndroidManifest.xml:42:27-58
+category#id.placeholderlabs.laundry
+ADDED from [com.google.firebase:firebase-iid:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/d3c76a77b4f903f107383d4d5f6a418b/AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/d3c76a77b4f903f107383d4d5f6a418b/AndroidManifest.xml:42:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/d3c76a77b4f903f107383d4d5f6a418b/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/d3c76a77b4f903f107383d4d5f6a418b/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/d3c76a77b4f903f107383d4d5f6a418b/AndroidManifest.xml:51:13-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.0.aar/333937b4c99e8703c67352dc14113272/AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.0.aar/333937b4c99e8703c67352dc14113272/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.0.aar/333937b4c99e8703c67352dc14113272/AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.0.aar/333937b4c99e8703c67352dc14113272/AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.0.aar/333937b4c99e8703c67352dc14113272/AndroidManifest.xml:9:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/997b84a7de55cdba06f7c23a5e536be5/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/997b84a7de55cdba06f7c23a5e536be5/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:12.0.0] /home/edo/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/997b84a7de55cdba06f7c23a5e536be5/AndroidManifest.xml:24:13-58
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/edo/Workspace/Projects/notation-laundryanku-android/app/src/main/AndroidManifest.xml:2:1-68:12 reason: com.google.android.gms.license has a targetSdkVersion < 4

@@ -1,0 +1,77 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/edo/Workspace/Projects/notation-laundryanku-android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pl/values-pl.xml",
+            "map": [
+                {
+                    "source": "/home/edo/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.0.aar/f4cb176455e9d66db93d07f115d3957d/res/values-pl/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "205",
+                        "endColumns": "98",
+                        "endOffsets": "303"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2085",
+                        "endColumns": "102",
+                        "endOffsets": "2183"
+                    }
+                },
+                {
+                    "source": "/home/edo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/265741a2d114fae8f531b24e455697ca/res/values-pl/values-pl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "22",
+                        "startColumns": "4",
+                        "startOffsets": "2270",
+                        "endColumns": "100",
+                        "endOffsets": "2366"
+                    }
+                },
+                {
+                    "source": "/home/edo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/948b2cc0aaa8daf39978ab0764f9a4bc/res/values-pl/values-pl.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,221,323,431,517,626,745,823,900,982,1091,1200,1299,1408,1519,1627,1790,1886",
+                        "endColumns": "115,101,107,85,108,118,77,76,81,108,108,98,108,110,107,162,95,81",
+                        "endOffsets": "216,318,426,512,621,740,818,895,977,1086,1195,1294,1403,1514,1622,1785,1881,1963"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,221,323,431,517,626,745,823,900,982,1091,1200,1299,1408,1519,1627,1790,2188",
+                        "endColumns": "115,101,107,85,108,118,77,76,81,108,108,98,108,110,107,162,95,81",
+                        "endOffsets": "216,318,426,512,621,740,818,895,977,1086,1195,1294,1403,1514,1622,1785,1881,2265"
+                    }
+                },
+                {
+                    "source": "/home/edo/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/997b84a7de55cdba06f7c23a5e536be5/res/values-pl/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "198",
+                        "endOffsets": "445"
+                    },
+                    "to": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "1886",
+                        "endColumns": "198",
+                        "endOffsets": "2080"
+                    }
+                }
+            ]
+        }
+    ]
+}

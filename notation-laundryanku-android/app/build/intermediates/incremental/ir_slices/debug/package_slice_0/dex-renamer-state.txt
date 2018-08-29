@@ -1,0 +1,4 @@
+#Fri May 11 23:08:41 WIB 2018
+base.0=/home/edo/Workspace/Projects/notation-laundryanku-android/app/build/intermediates/transforms/dexMerger/debug/1
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,8 @@
+[11-May-2018 22:56:13 Asia/Jakarta] PHP Warning:  include_once(./vendor/autoload.php): failed to open stream: No such file or directory in /home/skripsii/laundry.skripsii.net/index.php on line 322
+[11-May-2018 22:56:13 Asia/Jakarta] PHP Warning:  include_once(): Failed opening './vendor/autoload.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/skripsii/laundry.skripsii.net/index.php on line 322
+[11-May-2018 22:56:13 Asia/Jakarta] PHP Warning:  include_once(./vendor/autoload.php): failed to open stream: No such file or directory in /home/skripsii/laundry.skripsii.net/index.php on line 322
+[11-May-2018 22:56:13 Asia/Jakarta] PHP Warning:  include_once(): Failed opening './vendor/autoload.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/skripsii/laundry.skripsii.net/index.php on line 322
+[11-May-2018 22:56:13 Asia/Jakarta] PHP Warning:  include_once(./vendor/autoload.php): failed to open stream: No such file or directory in /home/skripsii/laundry.skripsii.net/index.php on line 322
+[11-May-2018 22:56:13 Asia/Jakarta] PHP Warning:  include_once(): Failed opening './vendor/autoload.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/skripsii/laundry.skripsii.net/index.php on line 322
+[11-May-2018 22:56:20 Asia/Jakarta] PHP Warning:  include_once(./vendor/autoload.php): failed to open stream: No such file or directory in /home/skripsii/laundry.skripsii.net/index.php on line 322
+[11-May-2018 22:56:20 Asia/Jakarta] PHP Warning:  include_once(): Failed opening './vendor/autoload.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/skripsii/laundry.skripsii.net/index.php on line 322

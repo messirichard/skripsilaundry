@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="id.placeholderlabs.laundry.UploadBukti"
+    android:padding="20dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:weightSum="3">
+
+        <TextView
+            android:id="@+id/text_view_chooser"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="2.5"
+            android:text="Choose Picture"
+            android:gravity="center"
+            />
+
+        <ImageView
+            android:id="@+id/imagePreview"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="centerInside"
+            android:layout_weight="2.5"
+            android:visibility="gone"
+            />
+
+       <LinearLayout
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:orientation="horizontal"
+           android:weightSum="2">
+           <LinearLayout
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:orientation="vertical"
+               android:layout_weight="1">
+               <TextView
+                   android:layout_width="match_parent"
+                   android:layout_height="wrap_content"
+                   android:letterSpacing="0.2"
+                   android:text="REKENING"
+                   android:textAllCaps="false"
+                   android:textAppearance="@style/TextAppearance.AppCompat.Caption"
+                   android:textSize="14sp"
+                   tools:text="USERNAME" />
+               <TextView
+                   android:layout_width="match_parent"
+                   android:layout_height="wrap_content"
+                   android:text="BCA 213 0091 222"
+                   android:textColor="#000"
+                   android:layout_marginBottom="10dp"/>
+               <TextView
+                   android:layout_width="match_parent"
+                   android:layout_height="wrap_content"
+                   android:letterSpacing="0.2"
+                   android:text="AN"
+                   android:textAllCaps="false"
+                   android:textAppearance="@style/TextAppearance.AppCompat.Caption"
+                   android:textSize="14sp"
+                   tools:text="AN" />
+               <TextView
+                   android:layout_width="match_parent"
+                   android:layout_height="wrap_content"
+                   android:text="Alfredo Eka"
+                   android:textColor="#000"/>
+           </LinearLayout>
+           <Button
+               android:id="@+id/btn_upload"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:layout_weight="1"
+               android:text="Upload"
+               android:backgroundTint="@color/colorPrimary"
+               android:textColor="#fff"/>
+       </LinearLayout>
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>
