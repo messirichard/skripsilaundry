@@ -1,0 +1,44 @@
+{
+    "name": "aura/cli-kernel",
+    "type": "library",
+    "description": "The kernel files for an Aura CLI project.",
+    "keywords": [
+        "cli",
+        "kernel"
+    ],
+    "homepage": "https://github.com/auraphp/Aura.Cli_Kernel",
+    "license": "BSD-2-Clause",
+    "authors": [
+        {
+            "name": "Aura.Cli_Kernel Contributors",
+            "homepage": "https://github.com/auraphp/Aura.Cli_Kernel/contributors"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "aura/project-kernel": "~2.0",
+        "aura/cli": "~2.0",
+        "aura/dispatcher": "~2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Aura\\Cli_Kernel\\": "src/",
+            "Aura\\Cli_Kernel\\_Config\\": "config/"
+        }
+    },
+    "extra": {
+        "aura": {
+            "type": "kernel",
+            "config": {
+                "common": "Aura\\Cli_Kernel\\_Config\\Common",
+                "cli-kernel-test": "Aura\\Cli_Kernel\\_Config\\CliKernelTest"
+            }
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Aura\\Cli_Kernel\\": "tests/",
+            "Aura\\Di\\": "vendor/aura/di/tests/"
+        }
+    }
+}
